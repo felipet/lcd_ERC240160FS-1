@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name MyFootprints)(type KiCad)(uri /home/felipe/workspace/lcd_ERC240160FS-1/KiCad-ftg/footprint_lib.prety)(options "")(descr ""))
+)

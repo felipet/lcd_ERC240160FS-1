@@ -1,0 +1,3 @@
+[submodule "KiCad-ftg"]
+	path = KiCad-ftg
+	url = https://github.com/felipet/KiCad-ftg.git
